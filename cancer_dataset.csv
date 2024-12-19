@@ -1,0 +1,1001 @@
+Idade,Sexo,Tipo de Câncer,Estágio Diagnóstico,Histórico Familiar,Tabagismo,Comorbidades
+69,Masculino,Mama feminina,III,Não,Sim,Nenhuma
+32,Masculino,Mama feminina,II,Não,Sim,Hipertensão
+89,Feminino,Próstata,I,Não,Não,Nenhuma
+78,Masculino,Pele não melanoma,I,Não,Sim,Hipertensão
+38,Masculino,Próstata,II,Sim,Sim,Nenhuma
+41,Masculino,Pele não melanoma,II,Sim,Não,Hipertensão
+20,Masculino,Pele não melanoma,III,Não,Não,Diabetes
+39,Feminino,Pulmão,I,Não,Não,Hipertensão
+70,Masculino,Pele não melanoma,III,Não,Sim,Hipertensão
+19,Masculino,Mama feminina,I,Não,Sim,Ambos
+47,Masculino,Mama feminina,I,Não,Sim,Nenhuma
+55,Masculino,Pele não melanoma,I,Não,Não,Diabetes
+19,Feminino,Pele não melanoma,I,Não,Não,Nenhuma
+81,Feminino,Pele não melanoma,II,Não,Não,Nenhuma
+77,Masculino,Pulmão,II,Não,Não,Nenhuma
+38,Masculino,Pele não melanoma,I,Sim,Não,Hipertensão
+50,Masculino,Pele não melanoma,II,Não,Não,Ambos
+75,Masculino,Pele não melanoma,I,Não,Não,Nenhuma
+39,Masculino,Próstata,III,Não,Não,Nenhuma
+66,Masculino,Pele não melanoma,IV,Não,Não,Hipertensão
+76,Feminino,Pele não melanoma,I,Sim,Não,Diabetes
+59,Masculino,Mama feminina,II,Não,Não,Hipertensão
+77,Feminino,Estômago,I,Não,Não,Nenhuma
+32,Feminino,Pele não melanoma,I,Não,Não,Nenhuma
+79,Masculino,Pele não melanoma,I,Não,Não,Diabetes
+79,Feminino,Pele não melanoma,III,Não,Não,Nenhuma
+64,Feminino,Mama feminina,II,Não,Sim,Nenhuma
+79,Feminino,Pele não melanoma,I,Não,Sim,Ambos
+68,Feminino,Mama feminina,III,Não,Não,Nenhuma
+72,Feminino,Cólon e reto,II,Não,Não,Nenhuma
+81,Feminino,Próstata,III,Sim,Sim,Hipertensão
+20,Masculino,Pele não melanoma,II,Não,Não,Nenhuma
+68,Feminino,Pulmão,II,Não,Sim,Hipertensão
+24,Feminino,Mama feminina,I,Não,Sim,Hipertensão
+38,Feminino,Mama feminina,I,Não,Não,Hipertensão
+56,Masculino,Pele não melanoma,IV,Não,Sim,Diabetes
+35,Feminino,Colo do útero,I,Não,Sim,Hipertensão
+21,Masculino,Pele não melanoma,IV,Não,Não,Diabetes
+77,Feminino,Pele não melanoma,II,Não,Não,Nenhuma
+31,Masculino,Pele não melanoma,I,Sim,Não,Diabetes
+26,Masculino,Próstata,I,Sim,Não,Nenhuma
+70,Feminino,Pele não melanoma,I,Não,Não,Diabetes
+19,Feminino,Pele não melanoma,IV,Sim,Sim,Nenhuma
+77,Masculino,Pele não melanoma,II,Sim,Não,Nenhuma
+88,Feminino,Pele não melanoma,I,Não,Sim,Diabetes
+61,Masculino,Mama feminina,I,Não,Não,Nenhuma
+25,Masculino,Próstata,I,Não,Não,Ambos
+64,Masculino,Pele não melanoma,II,Sim,Não,Nenhuma
+52,Masculino,Mama feminina,I,Não,Sim,Ambos
+53,Masculino,Próstata,III,Sim,Não,Nenhuma
+67,Feminino,Pele não melanoma,I,Não,Sim,Nenhuma
+21,Masculino,Pele não melanoma,I,Não,Sim,Hipertensão
+19,Masculino,Colo do útero,II,Não,Não,Diabetes
+23,Feminino,Mama feminina,II,Não,Sim,Nenhuma
+71,Masculino,Pele não melanoma,IV,Sim,Não,Hipertensão
+21,Feminino,Mama feminina,II,Não,Sim,Ambos
+71,Feminino,Pele não melanoma,I,Não,Não,Diabetes
+80,Feminino,Mama feminina,II,Não,Não,Ambos
+35,Masculino,Pele não melanoma,I,Sim,Não,Nenhuma
+61,Masculino,Pele não melanoma,I,Não,Não,Hipertensão
+51,Masculino,Pele não melanoma,IV,Não,Não,Hipertensão
+79,Feminino,Estômago,III,Não,Não,Nenhuma
+31,Masculino,Próstata,IV,Não,Não,Nenhuma
+65,Feminino,Pele não melanoma,II,Não,Não,Hipertensão
+32,Masculino,Pele não melanoma,II,Não,Não,Hipertensão
+89,Feminino,Próstata,I,Não,Não,Nenhuma
+79,Masculino,Pele não melanoma,I,Não,Não,Nenhuma
+57,Masculino,Pele não melanoma,III,Não,Não,Diabetes
+70,Masculino,Estômago,I,Não,Não,Diabetes
+41,Feminino,Pele não melanoma,III,Não,Não,Ambos
+43,Feminino,Próstata,III,Não,Sim,Hipertensão
+77,Masculino,Colo do útero,I,Não,Sim,Hipertensão
+58,Masculino,Pele não melanoma,II,Não,Não,Nenhuma
+46,Feminino,Pele não melanoma,II,Não,Sim,Diabetes
+32,Feminino,Pele não melanoma,I,Não,Não,Nenhuma
+62,Feminino,Cólon e reto,III,Não,Não,Hipertensão
+82,Masculino,Pulmão,II,Não,Não,Nenhuma
+88,Feminino,Cólon e reto,I,Sim,Sim,Nenhuma
+26,Masculino,Pele não melanoma,II,Não,Sim,Diabetes
+18,Feminino,Cólon e reto,IV,Não,Não,Ambos
+25,Masculino,Pulmão,I,Sim,Não,Diabetes
+80,Feminino,Mama feminina,III,Não,Não,Nenhuma
+28,Feminino,Estômago,I,Não,Não,Nenhuma
+25,Feminino,Cólon e reto,III,Sim,Não,Hipertensão
+52,Feminino,Próstata,III,Não,Não,Hipertensão
+52,Feminino,Mama feminina,I,Não,Não,Hipertensão
+50,Masculino,Pele não melanoma,I,Não,Sim,Nenhuma
+22,Feminino,Pele não melanoma,III,Não,Não,Hipertensão
+58,Feminino,Mama feminina,II,Sim,Não,Hipertensão
+45,Feminino,Pele não melanoma,III,Sim,Não,Hipertensão
+24,Masculino,Pulmão,I,Não,Sim,Diabetes
+89,Feminino,Colo do útero,III,Não,Não,Nenhuma
+29,Masculino,Próstata,III,Não,Não,Diabetes
+51,Feminino,Pele não melanoma,IV,Sim,Não,Nenhuma
+50,Feminino,Pele não melanoma,I,Não,Sim,Hipertensão
+65,Masculino,Pele não melanoma,II,Sim,Não,Hipertensão
+40,Feminino,Próstata,II,Sim,Não,Nenhuma
+79,Masculino,Cólon e reto,I,Não,Não,Nenhuma
+54,Masculino,Estômago,II,Não,Não,Nenhuma
+61,Feminino,Pele não melanoma,I,Não,Não,Hipertensão
+52,Masculino,Pulmão,III,Não,Não,Hipertensão
+82,Feminino,Pulmão,II,Não,Não,Nenhuma
+64,Feminino,Pele não melanoma,I,Não,Não,Hipertensão
+20,Masculino,Pulmão,II,Não,Sim,Diabetes
+18,Masculino,Pele não melanoma,II,Não,Não,Nenhuma
+22,Masculino,Pele não melanoma,I,Não,Sim,Nenhuma
+31,Masculino,Próstata,IV,Não,Não,Nenhuma
+44,Feminino,Pele não melanoma,IV,Sim,Sim,Nenhuma
+26,Feminino,Próstata,II,Não,Sim,Nenhuma
+32,Masculino,Mama feminina,I,Sim,Não,Diabetes
+59,Feminino,Mama feminina,III,Não,Sim,Diabetes
+68,Feminino,Pele não melanoma,II,Não,Não,Nenhuma
+80,Feminino,Mama feminina,I,Sim,Sim,Ambos
+69,Feminino,Mama feminina,II,Sim,Não,Ambos
+21,Masculino,Mama feminina,II,Não,Não,Hipertensão
+40,Masculino,Pele não melanoma,II,Não,Não,Hipertensão
+32,Feminino,Pele não melanoma,II,Sim,Não,Nenhuma
+60,Masculino,Mama feminina,II,Não,Sim,Diabetes
+46,Masculino,Pele não melanoma,IV,Não,Não,Hipertensão
+53,Masculino,Próstata,I,Não,Sim,Ambos
+30,Feminino,Cólon e reto,III,Não,Não,Nenhuma
+49,Feminino,Mama feminina,III,Não,Não,Hipertensão
+88,Feminino,Mama feminina,II,Não,Não,Ambos
+76,Masculino,Estômago,II,Não,Sim,Nenhuma
+45,Feminino,Cólon e reto,II,Não,Não,Hipertensão
+83,Feminino,Pulmão,II,Sim,Sim,Diabetes
+59,Masculino,Cólon e reto,III,Sim,Não,Hipertensão
+62,Feminino,Pele não melanoma,II,Sim,Não,Hipertensão
+79,Feminino,Pele não melanoma,IV,Não,Não,Nenhuma
+74,Masculino,Mama feminina,I,Não,Sim,Diabetes
+23,Masculino,Pele não melanoma,I,Não,Sim,Nenhuma
+45,Masculino,Mama feminina,II,Não,Não,Diabetes
+45,Feminino,Pele não melanoma,I,Não,Sim,Hipertensão
+61,Feminino,Mama feminina,I,Sim,Sim,Nenhuma
+47,Feminino,Próstata,I,Não,Não,Hipertensão
+79,Masculino,Próstata,I,Não,Sim,Ambos
+79,Masculino,Mama feminina,I,Não,Sim,Hipertensão
+18,Feminino,Cólon e reto,IV,Não,Não,Hipertensão
+44,Feminino,Pele não melanoma,I,Não,Não,Nenhuma
+79,Masculino,Pulmão,III,Não,Sim,Hipertensão
+20,Masculino,Pele não melanoma,III,Não,Sim,Nenhuma
+87,Masculino,Estômago,IV,Não,Não,Nenhuma
+89,Masculino,Próstata,I,Não,Sim,Hipertensão
+44,Feminino,Pele não melanoma,III,Sim,Não,Diabetes
+26,Masculino,Pele não melanoma,II,Não,Sim,Ambos
+79,Feminino,Mama feminina,II,Sim,Não,Nenhuma
+54,Feminino,Pele não melanoma,II,Não,Não,Hipertensão
+68,Feminino,Pele não melanoma,III,Sim,Não,Nenhuma
+61,Masculino,Próstata,I,Não,Não,Hipertensão
+41,Masculino,Mama feminina,III,Não,Não,Nenhuma
+76,Masculino,Próstata,II,Não,Sim,Diabetes
+49,Masculino,Estômago,III,Sim,Sim,Nenhuma
+69,Feminino,Mama feminina,IV,Sim,Não,Ambos
+79,Masculino,Mama feminina,I,Sim,Sim,Hipertensão
+75,Masculino,Pele não melanoma,IV,Sim,Sim,Hipertensão
+69,Feminino,Próstata,I,Sim,Não,Hipertensão
+29,Masculino,Pele não melanoma,I,Não,Não,Nenhuma
+56,Feminino,Colo do útero,I,Sim,Não,Hipertensão
+19,Feminino,Cólon e reto,I,Sim,Não,Diabetes
+20,Feminino,Mama feminina,II,Não,Não,Nenhuma
+73,Feminino,Pele não melanoma,I,Não,Sim,Ambos
+76,Feminino,Pulmão,I,Não,Não,Ambos
+19,Feminino,Cólon e reto,IV,Não,Sim,Nenhuma
+19,Feminino,Pele não melanoma,III,Não,Não,Hipertensão
+71,Feminino,Pele não melanoma,III,Sim,Não,Nenhuma
+18,Masculino,Cólon e reto,III,Não,Não,Hipertensão
+36,Masculino,Pele não melanoma,III,Não,Não,Diabetes
+19,Masculino,Pulmão,I,Sim,Sim,Nenhuma
+70,Masculino,Pele não melanoma,I,Não,Não,Nenhuma
+61,Feminino,Pele não melanoma,III,Não,Não,Hipertensão
+49,Masculino,Cólon e reto,I,Sim,Não,Nenhuma
+87,Feminino,Pele não melanoma,II,Não,Não,Hipertensão
+49,Masculino,Mama feminina,I,Não,Não,Hipertensão
+85,Masculino,Pele não melanoma,I,Não,Sim,Nenhuma
+72,Masculino,Pele não melanoma,II,Sim,Sim,Diabetes
+73,Feminino,Próstata,II,Não,Não,Hipertensão
+34,Masculino,Mama feminina,II,Não,Não,Nenhuma
+55,Feminino,Mama feminina,II,Não,Não,Nenhuma
+41,Feminino,Cólon e reto,I,Não,Não,Ambos
+86,Masculino,Próstata,I,Sim,Não,Ambos
+87,Masculino,Pele não melanoma,III,Sim,Não,Nenhuma
+28,Masculino,Pele não melanoma,II,Não,Não,Nenhuma
+33,Feminino,Pulmão,I,Não,Sim,Nenhuma
+76,Masculino,Cólon e reto,III,Não,Não,Hipertensão
+87,Feminino,Mama feminina,I,Não,Sim,Hipertensão
+20,Feminino,Pele não melanoma,II,Não,Sim,Ambos
+37,Masculino,Pele não melanoma,I,Não,Não,Nenhuma
+76,Masculino,Próstata,III,Não,Não,Nenhuma
+53,Feminino,Cólon e reto,II,Sim,Sim,Nenhuma
+36,Feminino,Próstata,I,Não,Sim,Nenhuma
+84,Feminino,Cólon e reto,III,Não,Sim,Diabetes
+36,Masculino,Cólon e reto,II,Não,Não,Hipertensão
+37,Feminino,Pele não melanoma,I,Não,Sim,Hipertensão
+88,Masculino,Pele não melanoma,I,Sim,Sim,Hipertensão
+69,Feminino,Pele não melanoma,I,Sim,Não,Diabetes
+50,Feminino,Pele não melanoma,I,Sim,Não,Diabetes
+57,Masculino,Pulmão,II,Não,Não,Nenhuma
+56,Feminino,Mama feminina,III,Não,Sim,Nenhuma
+18,Masculino,Mama feminina,II,Não,Não,Ambos
+28,Masculino,Pele não melanoma,I,Sim,Não,Ambos
+74,Feminino,Pele não melanoma,I,Não,Não,Hipertensão
+67,Masculino,Pele não melanoma,I,Não,Não,Nenhuma
+40,Masculino,Pele não melanoma,II,Não,Não,Nenhuma
+48,Feminino,Próstata,III,Não,Sim,Nenhuma
+59,Masculino,Pele não melanoma,I,Não,Não,Hipertensão
+24,Masculino,Próstata,III,Não,Não,Diabetes
+33,Masculino,Pele não melanoma,III,Sim,Não,Diabetes
+77,Feminino,Pele não melanoma,II,Não,Sim,Nenhuma
+19,Masculino,Pele não melanoma,III,Sim,Sim,Nenhuma
+18,Feminino,Mama feminina,II,Não,Não,Nenhuma
+65,Feminino,Próstata,II,Não,Sim,Ambos
+29,Masculino,Pele não melanoma,II,Não,Sim,Nenhuma
+86,Masculino,Pele não melanoma,II,Não,Não,Nenhuma
+54,Masculino,Próstata,I,Não,Não,Hipertensão
+49,Feminino,Pele não melanoma,I,Não,Não,Hipertensão
+26,Masculino,Pele não melanoma,I,Não,Não,Nenhuma
+36,Masculino,Cólon e reto,II,Não,Não,Hipertensão
+65,Masculino,Mama feminina,I,Não,Sim,Nenhuma
+20,Masculino,Pele não melanoma,IV,Não,Sim,Nenhuma
+37,Masculino,Pulmão,III,Não,Não,Nenhuma
+41,Feminino,Cólon e reto,II,Não,Não,Nenhuma
+71,Feminino,Pele não melanoma,I,Não,Não,Nenhuma
+50,Masculino,Próstata,III,Não,Sim,Nenhuma
+41,Masculino,Mama feminina,III,Não,Não,Hipertensão
+89,Masculino,Pele não melanoma,III,Sim,Não,Diabetes
+53,Masculino,Pele não melanoma,I,Não,Não,Hipertensão
+55,Feminino,Pele não melanoma,II,Sim,Não,Nenhuma
+42,Masculino,Próstata,I,Não,Não,Diabetes
+35,Feminino,Pele não melanoma,I,Não,Não,Diabetes
+83,Feminino,Cólon e reto,III,Não,Não,Diabetes
+71,Masculino,Próstata,III,Não,Sim,Nenhuma
+52,Feminino,Pele não melanoma,II,Não,Não,Nenhuma
+78,Feminino,Próstata,III,Não,Não,Nenhuma
+58,Feminino,Pele não melanoma,II,Não,Sim,Ambos
+50,Feminino,Mama feminina,II,Não,Não,Nenhuma
+85,Masculino,Próstata,I,Não,Não,Nenhuma
+50,Masculino,Pele não melanoma,IV,Não,Sim,Ambos
+31,Feminino,Mama feminina,I,Não,Não,Nenhuma
+38,Masculino,Pele não melanoma,IV,Não,Sim,Diabetes
+65,Masculino,Pele não melanoma,III,Não,Não,Nenhuma
+37,Masculino,Pele não melanoma,I,Não,Não,Hipertensão
+25,Masculino,Pele não melanoma,II,Não,Não,Hipertensão
+24,Masculino,Colo do útero,III,Não,Não,Nenhuma
+84,Feminino,Pele não melanoma,II,Não,Não,Hipertensão
+34,Masculino,Pele não melanoma,IV,Sim,Não,Hipertensão
+50,Masculino,Mama feminina,IV,Não,Sim,Nenhuma
+65,Masculino,Pele não melanoma,II,Não,Não,Diabetes
+76,Masculino,Estômago,I,Não,Sim,Nenhuma
+39,Feminino,Próstata,IV,Não,Não,Ambos
+47,Feminino,Próstata,II,Não,Não,Nenhuma
+55,Feminino,Pele não melanoma,I,Não,Sim,Nenhuma
+68,Feminino,Pele não melanoma,I,Não,Não,Ambos
+71,Masculino,Pele não melanoma,II,Sim,Sim,Nenhuma
+25,Feminino,Cólon e reto,IV,Não,Sim,Nenhuma
+44,Masculino,Pele não melanoma,III,Sim,Não,Nenhuma
+44,Masculino,Pele não melanoma,II,Não,Sim,Nenhuma
+38,Masculino,Colo do útero,I,Não,Sim,Nenhuma
+47,Masculino,Mama feminina,I,Sim,Sim,Hipertensão
+45,Masculino,Pele não melanoma,III,Não,Não,Hipertensão
+81,Feminino,Pele não melanoma,I,Sim,Sim,Nenhuma
+86,Feminino,Colo do útero,I,Não,Não,Hipertensão
+78,Feminino,Pele não melanoma,I,Não,Sim,Diabetes
+65,Feminino,Próstata,II,Não,Não,Ambos
+36,Masculino,Cólon e reto,IV,Não,Não,Diabetes
+21,Feminino,Pele não melanoma,I,Não,Sim,Hipertensão
+52,Masculino,Próstata,II,Não,Não,Nenhuma
+81,Feminino,Pele não melanoma,II,Sim,Não,Ambos
+66,Masculino,Pele não melanoma,IV,Não,Não,Hipertensão
+34,Masculino,Cólon e reto,I,Não,Não,Nenhuma
+61,Feminino,Pulmão,II,Não,Sim,Nenhuma
+47,Masculino,Mama feminina,I,Não,Não,Hipertensão
+63,Masculino,Mama feminina,III,Não,Não,Hipertensão
+23,Feminino,Pele não melanoma,II,Não,Não,Nenhuma
+54,Masculino,Pele não melanoma,I,Não,Não,Nenhuma
+41,Feminino,Pele não melanoma,II,Não,Não,Nenhuma
+63,Feminino,Pele não melanoma,III,Não,Não,Nenhuma
+70,Feminino,Pele não melanoma,I,Não,Sim,Nenhuma
+77,Masculino,Pele não melanoma,III,Não,Sim,Hipertensão
+80,Masculino,Pele não melanoma,I,Não,Sim,Nenhuma
+49,Masculino,Pele não melanoma,II,Sim,Não,Hipertensão
+50,Feminino,Mama feminina,II,Não,Não,Nenhuma
+84,Masculino,Cólon e reto,III,Sim,Não,Nenhuma
+35,Feminino,Pele não melanoma,I,Não,Não,Diabetes
+42,Feminino,Estômago,III,Não,Não,Ambos
+71,Masculino,Pulmão,III,Não,Não,Hipertensão
+75,Feminino,Pele não melanoma,II,Sim,Não,Hipertensão
+84,Masculino,Cólon e reto,III,Não,Não,Nenhuma
+63,Masculino,Mama feminina,III,Não,Não,Hipertensão
+41,Masculino,Mama feminina,I,Não,Não,Nenhuma
+49,Masculino,Pele não melanoma,I,Não,Não,Diabetes
+64,Masculino,Mama feminina,IV,Não,Não,Nenhuma
+40,Feminino,Pele não melanoma,I,Não,Não,Nenhuma
+83,Feminino,Mama feminina,III,Não,Não,Nenhuma
+44,Feminino,Próstata,IV,Sim,Não,Ambos
+19,Masculino,Próstata,I,Não,Sim,Nenhuma
+34,Masculino,Mama feminina,II,Não,Não,Hipertensão
+50,Masculino,Próstata,II,Não,Sim,Diabetes
+26,Feminino,Pele não melanoma,II,Não,Não,Hipertensão
+60,Masculino,Pele não melanoma,I,Sim,Não,Diabetes
+65,Feminino,Cólon e reto,I,Não,Não,Nenhuma
+56,Feminino,Pele não melanoma,II,Não,Sim,Hipertensão
+59,Masculino,Pele não melanoma,III,Não,Não,Nenhuma
+43,Masculino,Pele não melanoma,III,Sim,Não,Nenhuma
+67,Feminino,Pele não melanoma,II,Sim,Sim,Hipertensão
+42,Masculino,Estômago,I,Não,Não,Nenhuma
+41,Feminino,Mama feminina,II,Não,Não,Diabetes
+30,Masculino,Estômago,I,Sim,Não,Ambos
+77,Masculino,Mama feminina,IV,Não,Sim,Diabetes
+24,Feminino,Mama feminina,III,Não,Não,Nenhuma
+74,Masculino,Pele não melanoma,III,Não,Não,Nenhuma
+53,Feminino,Mama feminina,IV,Não,Não,Hipertensão
+62,Masculino,Pele não melanoma,I,Não,Não,Hipertensão
+37,Feminino,Pulmão,III,Não,Sim,Nenhuma
+82,Feminino,Cólon e reto,I,Não,Sim,Hipertensão
+25,Masculino,Pele não melanoma,IV,Não,Sim,Nenhuma
+33,Feminino,Estômago,I,Sim,Não,Nenhuma
+31,Masculino,Cólon e reto,III,Não,Sim,Hipertensão
+32,Masculino,Próstata,III,Não,Sim,Nenhuma
+83,Masculino,Pele não melanoma,I,Não,Não,Ambos
+49,Feminino,Mama feminina,I,Não,Sim,Nenhuma
+80,Feminino,Mama feminina,III,Não,Sim,Nenhuma
+68,Masculino,Pele não melanoma,II,Sim,Não,Hipertensão
+42,Masculino,Pele não melanoma,I,Não,Sim,Diabetes
+75,Feminino,Cólon e reto,I,Não,Não,Nenhuma
+80,Masculino,Pele não melanoma,I,Não,Não,Nenhuma
+79,Masculino,Mama feminina,III,Sim,Não,Diabetes
+39,Feminino,Estômago,II,Não,Não,Nenhuma
+75,Masculino,Pulmão,I,Não,Não,Ambos
+75,Feminino,Pele não melanoma,I,Não,Não,Hipertensão
+66,Masculino,Cólon e reto,I,Não,Não,Nenhuma
+69,Feminino,Pele não melanoma,I,Não,Não,Hipertensão
+59,Masculino,Pele não melanoma,II,Não,Não,Nenhuma
+87,Masculino,Mama feminina,I,Não,Não,Hipertensão
+32,Feminino,Pele não melanoma,I,Não,Não,Nenhuma
+71,Masculino,Pele não melanoma,III,Não,Sim,Hipertensão
+77,Feminino,Mama feminina,I,Não,Sim,Ambos
+25,Masculino,Pele não melanoma,II,Não,Sim,Nenhuma
+70,Feminino,Pele não melanoma,II,Não,Não,Hipertensão
+77,Feminino,Mama feminina,II,Não,Não,Ambos
+22,Feminino,Próstata,II,Não,Não,Ambos
+85,Feminino,Próstata,II,Sim,Não,Diabetes
+23,Masculino,Pele não melanoma,III,Não,Não,Nenhuma
+64,Masculino,Pele não melanoma,II,Não,Sim,Hipertensão
+72,Feminino,Pele não melanoma,II,Sim,Sim,Nenhuma
+57,Feminino,Pele não melanoma,III,Não,Não,Ambos
+69,Feminino,Cólon e reto,II,Não,Não,Ambos
+33,Masculino,Pele não melanoma,I,Não,Não,Diabetes
+30,Masculino,Pele não melanoma,I,Não,Não,Hipertensão
+47,Masculino,Próstata,I,Não,Sim,Ambos
+36,Masculino,Próstata,III,Sim,Não,Nenhuma
+34,Feminino,Próstata,III,Sim,Não,Nenhuma
+80,Feminino,Pele não melanoma,IV,Sim,Sim,Ambos
+36,Feminino,Pele não melanoma,II,Não,Não,Diabetes
+75,Masculino,Pele não melanoma,II,Não,Não,Hipertensão
+72,Masculino,Pele não melanoma,I,Não,Não,Hipertensão
+79,Masculino,Próstata,II,Não,Não,Diabetes
+40,Feminino,Cólon e reto,II,Não,Não,Hipertensão
+26,Feminino,Próstata,IV,Sim,Sim,Hipertensão
+29,Masculino,Cólon e reto,I,Sim,Não,Hipertensão
+18,Feminino,Pele não melanoma,II,Sim,Não,Diabetes
+75,Masculino,Próstata,II,Não,Sim,Diabetes
+18,Masculino,Pele não melanoma,II,Não,Sim,Diabetes
+51,Feminino,Mama feminina,II,Não,Não,Hipertensão
+65,Masculino,Mama feminina,III,Sim,Não,Hipertensão
+18,Feminino,Pele não melanoma,I,Não,Sim,Ambos
+33,Masculino,Pele não melanoma,III,Sim,Não,Diabetes
+78,Feminino,Estômago,II,Não,Não,Hipertensão
+81,Feminino,Pele não melanoma,III,Não,Sim,Hipertensão
+80,Feminino,Pele não melanoma,III,Não,Sim,Hipertensão
+86,Masculino,Pele não melanoma,I,Não,Não,Diabetes
+39,Masculino,Cólon e reto,I,Sim,Sim,Ambos
+84,Feminino,Mama feminina,IV,Não,Não,Nenhuma
+43,Feminino,Próstata,II,Não,Sim,Hipertensão
+33,Masculino,Pele não melanoma,IV,Não,Não,Diabetes
+68,Masculino,Próstata,I,Não,Não,Nenhuma
+74,Masculino,Pele não melanoma,II,Não,Não,Hipertensão
+46,Feminino,Cólon e reto,III,Não,Não,Hipertensão
+86,Masculino,Próstata,IV,Sim,Não,Nenhuma
+64,Masculino,Pele não melanoma,I,Não,Não,Nenhuma
+79,Feminino,Pele não melanoma,III,Não,Não,Hipertensão
+86,Masculino,Pele não melanoma,II,Não,Sim,Ambos
+33,Masculino,Pele não melanoma,I,Não,Não,Hipertensão
+65,Masculino,Pele não melanoma,II,Não,Sim,Diabetes
+56,Feminino,Próstata,II,Não,Não,Nenhuma
+50,Feminino,Mama feminina,IV,Sim,Não,Diabetes
+40,Feminino,Pele não melanoma,II,Não,Não,Hipertensão
+27,Feminino,Pele não melanoma,I,Sim,Sim,Nenhuma
+86,Feminino,Pele não melanoma,I,Não,Não,Nenhuma
+51,Feminino,Pulmão,II,Não,Não,Hipertensão
+69,Feminino,Pele não melanoma,I,Sim,Não,Nenhuma
+27,Masculino,Próstata,III,Não,Não,Ambos
+36,Masculino,Cólon e reto,I,Não,Sim,Nenhuma
+75,Feminino,Próstata,IV,Não,Não,Hipertensão
+18,Masculino,Pulmão,IV,Não,Não,Diabetes
+86,Masculino,Pele não melanoma,II,Não,Não,Hipertensão
+21,Feminino,Estômago,IV,Sim,Não,Hipertensão
+33,Masculino,Pele não melanoma,III,Sim,Sim,Hipertensão
+41,Masculino,Pele não melanoma,II,Sim,Sim,Nenhuma
+19,Masculino,Próstata,I,Não,Não,Nenhuma
+49,Masculino,Estômago,II,Sim,Sim,Hipertensão
+41,Masculino,Cólon e reto,II,Não,Não,Ambos
+29,Feminino,Pele não melanoma,III,Não,Não,Diabetes
+67,Feminino,Pele não melanoma,II,Não,Sim,Nenhuma
+52,Feminino,Estômago,III,Não,Não,Nenhuma
+50,Masculino,Pele não melanoma,II,Não,Sim,Nenhuma
+50,Feminino,Cólon e reto,I,Não,Não,Nenhuma
+78,Masculino,Cólon e reto,IV,Sim,Sim,Hipertensão
+68,Masculino,Mama feminina,II,Não,Sim,Diabetes
+60,Masculino,Pele não melanoma,I,Não,Não,Nenhuma
+29,Masculino,Pele não melanoma,II,Sim,Não,Nenhuma
+84,Feminino,Pele não melanoma,I,Sim,Não,Hipertensão
+82,Feminino,Pulmão,II,Não,Não,Diabetes
+50,Masculino,Pele não melanoma,II,Sim,Não,Nenhuma
+57,Feminino,Pulmão,II,Não,Não,Diabetes
+60,Masculino,Pele não melanoma,IV,Sim,Não,Hipertensão
+61,Feminino,Colo do útero,II,Não,Não,Nenhuma
+46,Feminino,Pele não melanoma,I,Não,Não,Hipertensão
+30,Masculino,Pele não melanoma,II,Não,Não,Diabetes
+29,Feminino,Pele não melanoma,IV,Não,Não,Nenhuma
+63,Masculino,Próstata,I,Não,Não,Nenhuma
+19,Feminino,Próstata,I,Sim,Não,Nenhuma
+52,Masculino,Cólon e reto,I,Não,Não,Hipertensão
+25,Masculino,Pele não melanoma,I,Não,Não,Diabetes
+43,Feminino,Pele não melanoma,III,Não,Sim,Nenhuma
+51,Feminino,Mama feminina,III,Não,Não,Ambos
+24,Masculino,Pele não melanoma,I,Sim,Sim,Hipertensão
+85,Feminino,Mama feminina,II,Não,Não,Nenhuma
+75,Feminino,Colo do útero,I,Não,Sim,Hipertensão
+46,Masculino,Colo do útero,IV,Sim,Não,Hipertensão
+53,Masculino,Estômago,IV,Não,Sim,Diabetes
+38,Feminino,Cólon e reto,I,Sim,Sim,Hipertensão
+53,Masculino,Pele não melanoma,III,Sim,Não,Hipertensão
+27,Masculino,Pele não melanoma,III,Sim,Não,Ambos
+41,Masculino,Mama feminina,I,Sim,Sim,Nenhuma
+81,Feminino,Cólon e reto,I,Não,Não,Nenhuma
+66,Feminino,Pele não melanoma,II,Sim,Não,Diabetes
+53,Masculino,Pele não melanoma,III,Não,Sim,Diabetes
+41,Feminino,Pele não melanoma,IV,Não,Sim,Diabetes
+40,Masculino,Mama feminina,III,Sim,Não,Diabetes
+79,Feminino,Pulmão,III,Não,Não,Nenhuma
+54,Masculino,Cólon e reto,II,Não,Sim,Nenhuma
+29,Masculino,Pele não melanoma,III,Não,Não,Nenhuma
+72,Feminino,Colo do útero,III,Sim,Não,Hipertensão
+30,Masculino,Próstata,I,Não,Não,Hipertensão
+40,Feminino,Pele não melanoma,II,Não,Não,Ambos
+47,Feminino,Pele não melanoma,III,Sim,Não,Diabetes
+34,Masculino,Pele não melanoma,I,Sim,Não,Nenhuma
+79,Masculino,Pele não melanoma,III,Não,Não,Nenhuma
+30,Feminino,Estômago,I,Sim,Não,Hipertensão
+76,Masculino,Mama feminina,II,Não,Não,Nenhuma
+36,Masculino,Pulmão,III,Não,Não,Ambos
+66,Masculino,Pele não melanoma,I,Não,Sim,Diabetes
+29,Masculino,Pele não melanoma,I,Não,Não,Nenhuma
+78,Masculino,Mama feminina,II,Sim,Não,Hipertensão
+36,Feminino,Pele não melanoma,III,Sim,Não,Diabetes
+26,Feminino,Mama feminina,I,Não,Não,Nenhuma
+88,Masculino,Pulmão,IV,Não,Não,Nenhuma
+45,Masculino,Mama feminina,I,Não,Sim,Hipertensão
+69,Masculino,Próstata,IV,Não,Não,Hipertensão
+33,Feminino,Pele não melanoma,IV,Sim,Não,Nenhuma
+86,Masculino,Pele não melanoma,II,Sim,Sim,Nenhuma
+29,Feminino,Pele não melanoma,II,Não,Sim,Nenhuma
+42,Feminino,Mama feminina,II,Sim,Não,Hipertensão
+69,Feminino,Pele não melanoma,II,Não,Sim,Nenhuma
+70,Masculino,Pele não melanoma,I,Não,Sim,Hipertensão
+40,Feminino,Mama feminina,I,Não,Não,Nenhuma
+33,Masculino,Pele não melanoma,I,Não,Não,Diabetes
+74,Feminino,Pele não melanoma,II,Sim,Não,Nenhuma
+56,Masculino,Pele não melanoma,I,Não,Não,Hipertensão
+70,Feminino,Estômago,II,Não,Sim,Hipertensão
+59,Masculino,Próstata,IV,Não,Não,Hipertensão
+75,Feminino,Mama feminina,I,Não,Não,Hipertensão
+56,Masculino,Pele não melanoma,II,Não,Não,Nenhuma
+31,Masculino,Colo do útero,II,Sim,Não,Nenhuma
+22,Masculino,Próstata,III,Sim,Não,Nenhuma
+52,Masculino,Pele não melanoma,IV,Não,Não,Hipertensão
+35,Feminino,Pulmão,III,Não,Não,Nenhuma
+26,Feminino,Pele não melanoma,IV,Sim,Não,Nenhuma
+75,Masculino,Mama feminina,I,Não,Não,Hipertensão
+34,Feminino,Próstata,III,Não,Não,Diabetes
+24,Masculino,Pele não melanoma,III,Sim,Não,Nenhuma
+63,Masculino,Colo do útero,I,Não,Não,Nenhuma
+30,Feminino,Próstata,IV,Não,Não,Nenhuma
+57,Masculino,Mama feminina,I,Sim,Não,Hipertensão
+59,Masculino,Pele não melanoma,II,Não,Não,Ambos
+26,Feminino,Pele não melanoma,I,Não,Não,Hipertensão
+67,Masculino,Pele não melanoma,II,Não,Não,Nenhuma
+44,Masculino,Próstata,III,Não,Não,Nenhuma
+83,Masculino,Pele não melanoma,II,Não,Não,Diabetes
+22,Masculino,Mama feminina,II,Não,Não,Nenhuma
+46,Feminino,Próstata,I,Não,Não,Hipertensão
+54,Feminino,Pele não melanoma,III,Não,Não,Nenhuma
+55,Feminino,Próstata,I,Não,Não,Hipertensão
+25,Masculino,Pele não melanoma,II,Sim,Não,Hipertensão
+82,Masculino,Colo do útero,IV,Não,Sim,Hipertensão
+34,Feminino,Mama feminina,III,Não,Não,Hipertensão
+88,Masculino,Pele não melanoma,II,Sim,Não,Diabetes
+62,Masculino,Pele não melanoma,III,Não,Não,Nenhuma
+21,Masculino,Pele não melanoma,III,Sim,Não,Nenhuma
+53,Masculino,Próstata,III,Sim,Não,Nenhuma
+87,Feminino,Próstata,II,Não,Não,Diabetes
+48,Feminino,Próstata,I,Não,Não,Ambos
+36,Feminino,Pele não melanoma,I,Sim,Não,Diabetes
+78,Masculino,Pele não melanoma,I,Não,Não,Nenhuma
+71,Feminino,Pele não melanoma,II,Não,Sim,Diabetes
+56,Feminino,Mama feminina,I,Não,Não,Nenhuma
+36,Masculino,Pulmão,II,Não,Não,Nenhuma
+56,Masculino,Pele não melanoma,I,Não,Não,Ambos
+84,Feminino,Pele não melanoma,I,Sim,Não,Hipertensão
+62,Feminino,Mama feminina,III,Não,Não,Diabetes
+30,Feminino,Cólon e reto,II,Não,Sim,Hipertensão
+75,Feminino,Próstata,I,Não,Não,Nenhuma
+37,Masculino,Pulmão,III,Não,Sim,Nenhuma
+89,Feminino,Pele não melanoma,I,Sim,Não,Diabetes
+78,Feminino,Pele não melanoma,III,Não,Não,Nenhuma
+56,Masculino,Pulmão,III,Sim,Não,Nenhuma
+18,Feminino,Próstata,I,Não,Não,Nenhuma
+20,Masculino,Pele não melanoma,III,Não,Sim,Diabetes
+79,Masculino,Próstata,II,Não,Sim,Hipertensão
+80,Masculino,Cólon e reto,II,Não,Não,Hipertensão
+42,Feminino,Próstata,I,Não,Sim,Nenhuma
+73,Feminino,Próstata,I,Sim,Não,Ambos
+50,Masculino,Pele não melanoma,IV,Não,Sim,Ambos
+55,Feminino,Mama feminina,I,Sim,Não,Nenhuma
+23,Feminino,Mama feminina,II,Sim,Não,Nenhuma
+75,Masculino,Cólon e reto,II,Não,Sim,Nenhuma
+61,Masculino,Cólon e reto,II,Não,Não,Ambos
+62,Feminino,Cólon e reto,I,Não,Não,Diabetes
+49,Masculino,Pele não melanoma,I,Sim,Sim,Nenhuma
+62,Feminino,Próstata,III,Não,Não,Ambos
+78,Feminino,Próstata,I,Não,Não,Hipertensão
+64,Feminino,Próstata,I,Não,Não,Hipertensão
+38,Feminino,Próstata,I,Sim,Sim,Diabetes
+53,Masculino,Cólon e reto,II,Não,Não,Ambos
+36,Masculino,Mama feminina,III,Não,Sim,Nenhuma
+37,Masculino,Mama feminina,I,Não,Sim,Nenhuma
+74,Masculino,Pele não melanoma,I,Não,Não,Nenhuma
+35,Feminino,Pele não melanoma,I,Não,Não,Diabetes
+64,Feminino,Próstata,III,Não,Não,Hipertensão
+66,Masculino,Cólon e reto,II,Sim,Não,Diabetes
+31,Feminino,Pele não melanoma,II,Sim,Sim,Nenhuma
+32,Feminino,Pele não melanoma,III,Não,Não,Hipertensão
+48,Feminino,Próstata,II,Não,Sim,Nenhuma
+18,Masculino,Pele não melanoma,III,Não,Sim,Nenhuma
+71,Masculino,Pele não melanoma,III,Sim,Não,Hipertensão
+20,Masculino,Pele não melanoma,I,Não,Não,Hipertensão
+33,Feminino,Pele não melanoma,I,Não,Não,Nenhuma
+74,Masculino,Pele não melanoma,I,Não,Sim,Nenhuma
+29,Masculino,Pele não melanoma,I,Não,Não,Hipertensão
+33,Masculino,Pele não melanoma,IV,Não,Não,Ambos
+89,Masculino,Pulmão,II,Sim,Sim,Nenhuma
+41,Masculino,Mama feminina,I,Não,Não,Diabetes
+45,Masculino,Próstata,III,Não,Sim,Hipertensão
+25,Feminino,Pele não melanoma,II,Não,Não,Diabetes
+53,Feminino,Pele não melanoma,I,Sim,Não,Ambos
+25,Masculino,Próstata,I,Sim,Sim,Diabetes
+75,Masculino,Pele não melanoma,II,Não,Não,Hipertensão
+77,Feminino,Mama feminina,III,Não,Não,Hipertensão
+67,Feminino,Mama feminina,I,Não,Sim,Ambos
+45,Masculino,Mama feminina,I,Não,Não,Nenhuma
+58,Masculino,Pele não melanoma,II,Não,Não,Nenhuma
+81,Masculino,Pele não melanoma,I,Sim,Sim,Nenhuma
+44,Masculino,Próstata,II,Não,Não,Nenhuma
+80,Feminino,Pele não melanoma,II,Não,Não,Diabetes
+34,Masculino,Próstata,I,Não,Não,Hipertensão
+50,Masculino,Próstata,IV,Não,Não,Nenhuma
+46,Masculino,Colo do útero,II,Não,Não,Hipertensão
+30,Masculino,Pele não melanoma,I,Não,Não,Diabetes
+63,Feminino,Cólon e reto,II,Não,Não,Nenhuma
+52,Feminino,Mama feminina,III,Sim,Não,Hipertensão
+23,Feminino,Pele não melanoma,III,Sim,Não,Hipertensão
+86,Masculino,Pele não melanoma,I,Não,Não,Nenhuma
+64,Masculino,Próstata,IV,Sim,Sim,Nenhuma
+42,Feminino,Pele não melanoma,II,Sim,Não,Hipertensão
+83,Masculino,Pele não melanoma,I,Não,Não,Nenhuma
+27,Masculino,Pele não melanoma,I,Não,Sim,Nenhuma
+73,Feminino,Cólon e reto,I,Não,Sim,Nenhuma
+47,Feminino,Cólon e reto,III,Não,Não,Diabetes
+22,Feminino,Próstata,I,Não,Não,Diabetes
+50,Feminino,Pele não melanoma,I,Não,Não,Nenhuma
+82,Masculino,Pele não melanoma,III,Sim,Não,Nenhuma
+35,Masculino,Próstata,I,Não,Não,Nenhuma
+66,Feminino,Mama feminina,I,Sim,Não,Diabetes
+28,Masculino,Pele não melanoma,I,Não,Sim,Diabetes
+43,Feminino,Próstata,I,Sim,Sim,Nenhuma
+80,Feminino,Colo do útero,I,Não,Não,Diabetes
+76,Masculino,Próstata,II,Não,Não,Ambos
+44,Feminino,Próstata,I,Não,Sim,Diabetes
+66,Masculino,Estômago,I,Não,Não,Diabetes
+50,Masculino,Pele não melanoma,III,Não,Sim,Nenhuma
+18,Masculino,Mama feminina,II,Sim,Não,Nenhuma
+38,Masculino,Colo do útero,II,Não,Não,Hipertensão
+72,Feminino,Pele não melanoma,II,Não,Não,Hipertensão
+23,Masculino,Próstata,I,Não,Não,Nenhuma
+86,Feminino,Mama feminina,II,Sim,Sim,Hipertensão
+22,Feminino,Mama feminina,II,Sim,Não,Ambos
+20,Feminino,Próstata,I,Não,Não,Nenhuma
+70,Feminino,Estômago,IV,Não,Não,Diabetes
+40,Masculino,Cólon e reto,I,Não,Não,Nenhuma
+70,Masculino,Pele não melanoma,III,Sim,Não,Hipertensão
+54,Feminino,Cólon e reto,I,Não,Não,Nenhuma
+34,Feminino,Pele não melanoma,III,Sim,Não,Hipertensão
+18,Masculino,Pele não melanoma,II,Sim,Sim,Nenhuma
+68,Feminino,Mama feminina,III,Não,Sim,Hipertensão
+62,Masculino,Mama feminina,I,Sim,Não,Hipertensão
+21,Feminino,Pele não melanoma,II,Sim,Não,Nenhuma
+79,Masculino,Estômago,II,Não,Não,Ambos
+82,Feminino,Próstata,III,Não,Sim,Ambos
+49,Feminino,Próstata,II,Sim,Não,Hipertensão
+51,Masculino,Pele não melanoma,II,Sim,Não,Nenhuma
+89,Feminino,Pulmão,II,Sim,Não,Diabetes
+56,Feminino,Pulmão,I,Sim,Não,Diabetes
+43,Masculino,Cólon e reto,II,Não,Não,Nenhuma
+51,Feminino,Pele não melanoma,I,Não,Não,Hipertensão
+71,Masculino,Pele não melanoma,IV,Não,Não,Nenhuma
+20,Masculino,Pele não melanoma,III,Não,Não,Nenhuma
+67,Feminino,Pele não melanoma,IV,Não,Não,Nenhuma
+29,Feminino,Pele não melanoma,I,Não,Não,Nenhuma
+82,Feminino,Estômago,III,Não,Não,Nenhuma
+71,Feminino,Mama feminina,III,Não,Sim,Diabetes
+22,Feminino,Pele não melanoma,II,Não,Sim,Nenhuma
+74,Feminino,Pele não melanoma,II,Não,Não,Hipertensão
+34,Feminino,Pele não melanoma,I,Não,Não,Hipertensão
+64,Masculino,Pele não melanoma,III,Sim,Não,Nenhuma
+40,Feminino,Pele não melanoma,II,Sim,Sim,Ambos
+31,Masculino,Pele não melanoma,I,Não,Não,Nenhuma
+83,Feminino,Cólon e reto,I,Não,Não,Hipertensão
+68,Feminino,Colo do útero,IV,Não,Sim,Nenhuma
+55,Masculino,Pele não melanoma,III,Não,Não,Diabetes
+81,Feminino,Pele não melanoma,IV,Não,Sim,Nenhuma
+55,Feminino,Cólon e reto,II,Não,Não,Nenhuma
+67,Masculino,Pele não melanoma,I,Sim,Não,Nenhuma
+47,Feminino,Pele não melanoma,I,Sim,Sim,Hipertensão
+68,Feminino,Cólon e reto,I,Não,Não,Diabetes
+80,Feminino,Pele não melanoma,I,Não,Não,Diabetes
+69,Masculino,Próstata,I,Não,Não,Nenhuma
+55,Feminino,Mama feminina,I,Não,Sim,Nenhuma
+47,Feminino,Pele não melanoma,II,Sim,Sim,Hipertensão
+68,Feminino,Pele não melanoma,IV,Não,Sim,Nenhuma
+22,Feminino,Cólon e reto,II,Não,Não,Nenhuma
+46,Masculino,Pele não melanoma,III,Não,Não,Ambos
+21,Masculino,Pele não melanoma,II,Não,Não,Nenhuma
+27,Feminino,Próstata,I,Sim,Não,Nenhuma
+73,Feminino,Mama feminina,I,Sim,Não,Hipertensão
+34,Masculino,Pele não melanoma,I,Não,Não,Hipertensão
+34,Masculino,Pulmão,I,Não,Não,Diabetes
+86,Feminino,Pele não melanoma,II,Não,Sim,Nenhuma
+51,Masculino,Cólon e reto,I,Sim,Não,Nenhuma
+23,Feminino,Cólon e reto,I,Não,Sim,Nenhuma
+70,Masculino,Próstata,I,Sim,Sim,Diabetes
+83,Masculino,Mama feminina,IV,Sim,Não,Hipertensão
+60,Masculino,Colo do útero,III,Não,Não,Diabetes
+40,Masculino,Pele não melanoma,III,Não,Sim,Diabetes
+72,Feminino,Próstata,I,Sim,Não,Nenhuma
+33,Masculino,Pele não melanoma,III,Sim,Não,Nenhuma
+25,Masculino,Pele não melanoma,III,Não,Não,Nenhuma
+21,Feminino,Pele não melanoma,II,Sim,Sim,Nenhuma
+21,Masculino,Estômago,IV,Não,Sim,Diabetes
+73,Masculino,Colo do útero,I,Não,Não,Hipertensão
+42,Feminino,Pele não melanoma,IV,Sim,Não,Hipertensão
+84,Masculino,Pele não melanoma,IV,Sim,Não,Nenhuma
+84,Feminino,Próstata,I,Não,Não,Nenhuma
+44,Feminino,Pele não melanoma,II,Não,Sim,Hipertensão
+49,Feminino,Pele não melanoma,IV,Não,Sim,Hipertensão
+67,Feminino,Próstata,I,Não,Não,Diabetes
+78,Masculino,Mama feminina,II,Não,Sim,Hipertensão
+68,Feminino,Colo do útero,IV,Não,Não,Ambos
+36,Masculino,Pele não melanoma,II,Não,Não,Diabetes
+38,Masculino,Pele não melanoma,I,Não,Sim,Ambos
+22,Masculino,Mama feminina,II,Não,Sim,Nenhuma
+59,Masculino,Cólon e reto,I,Não,Não,Nenhuma
+78,Masculino,Mama feminina,II,Não,Sim,Diabetes
+39,Masculino,Próstata,I,Não,Sim,Hipertensão
+38,Masculino,Pele não melanoma,II,Sim,Não,Ambos
+87,Masculino,Cólon e reto,II,Não,Não,Hipertensão
+18,Masculino,Pele não melanoma,III,Não,Sim,Hipertensão
+22,Masculino,Pele não melanoma,II,Sim,Não,Ambos
+29,Feminino,Próstata,II,Sim,Não,Nenhuma
+63,Feminino,Pele não melanoma,II,Não,Não,Nenhuma
+51,Feminino,Pele não melanoma,I,Não,Não,Hipertensão
+66,Masculino,Pulmão,II,Não,Não,Nenhuma
+62,Feminino,Mama feminina,I,Não,Não,Hipertensão
+44,Feminino,Próstata,IV,Não,Sim,Diabetes
+43,Feminino,Pele não melanoma,I,Sim,Sim,Nenhuma
+64,Masculino,Cólon e reto,II,Não,Não,Nenhuma
+73,Masculino,Pele não melanoma,II,Não,Não,Nenhuma
+80,Masculino,Pele não melanoma,II,Não,Sim,Nenhuma
+65,Masculino,Colo do útero,I,Não,Não,Nenhuma
+78,Feminino,Cólon e reto,II,Não,Não,Nenhuma
+43,Feminino,Mama feminina,II,Sim,Não,Nenhuma
+53,Feminino,Pele não melanoma,III,Não,Não,Ambos
+18,Feminino,Pulmão,I,Sim,Não,Nenhuma
+25,Masculino,Mama feminina,II,Não,Sim,Nenhuma
+69,Masculino,Próstata,II,Sim,Sim,Nenhuma
+64,Masculino,Próstata,II,Sim,Não,Diabetes
+73,Feminino,Pele não melanoma,II,Não,Sim,Nenhuma
+31,Masculino,Pele não melanoma,II,Não,Não,Hipertensão
+45,Masculino,Próstata,I,Não,Não,Hipertensão
+19,Feminino,Pele não melanoma,I,Sim,Não,Hipertensão
+43,Feminino,Pele não melanoma,I,Sim,Sim,Nenhuma
+31,Masculino,Estômago,I,Não,Sim,Nenhuma
+76,Masculino,Mama feminina,II,Sim,Não,Hipertensão
+73,Masculino,Próstata,II,Sim,Não,Diabetes
+24,Masculino,Mama feminina,I,Não,Não,Hipertensão
+20,Masculino,Mama feminina,IV,Não,Não,Nenhuma
+40,Masculino,Pele não melanoma,I,Não,Não,Hipertensão
+35,Feminino,Pele não melanoma,III,Não,Não,Hipertensão
+55,Feminino,Pele não melanoma,II,Não,Sim,Hipertensão
+32,Feminino,Pele não melanoma,I,Não,Sim,Ambos
+81,Masculino,Cólon e reto,I,Não,Não,Hipertensão
+45,Feminino,Pele não melanoma,II,Sim,Não,Nenhuma
+56,Masculino,Pele não melanoma,I,Sim,Não,Diabetes
+74,Masculino,Pele não melanoma,IV,Não,Não,Nenhuma
+34,Feminino,Pele não melanoma,II,Sim,Não,Hipertensão
+61,Masculino,Pele não melanoma,IV,Não,Não,Ambos
+42,Masculino,Pele não melanoma,I,Sim,Não,Hipertensão
+34,Feminino,Pele não melanoma,III,Não,Não,Nenhuma
+30,Feminino,Pele não melanoma,II,Não,Não,Nenhuma
+42,Feminino,Pele não melanoma,III,Sim,Não,Nenhuma
+85,Masculino,Próstata,I,Sim,Não,Nenhuma
+27,Feminino,Pele não melanoma,II,Não,Sim,Ambos
+84,Feminino,Pele não melanoma,II,Não,Sim,Nenhuma
+35,Masculino,Próstata,III,Não,Não,Nenhuma
+51,Feminino,Pele não melanoma,I,Não,Não,Hipertensão
+25,Feminino,Pulmão,III,Não,Não,Nenhuma
+57,Feminino,Mama feminina,I,Não,Não,Hipertensão
+59,Masculino,Pele não melanoma,III,Não,Não,Hipertensão
+58,Masculino,Mama feminina,III,Não,Não,Hipertensão
+23,Masculino,Pele não melanoma,III,Não,Não,Hipertensão
+69,Masculino,Próstata,II,Não,Não,Ambos
+43,Feminino,Pele não melanoma,II,Não,Sim,Hipertensão
+81,Masculino,Pulmão,IV,Não,Não,Diabetes
+76,Masculino,Pele não melanoma,I,Não,Não,Diabetes
+73,Feminino,Mama feminina,II,Sim,Não,Nenhuma
+76,Feminino,Mama feminina,II,Sim,Não,Nenhuma
+87,Feminino,Pele não melanoma,III,Não,Não,Hipertensão
+50,Masculino,Pele não melanoma,I,Não,Sim,Diabetes
+70,Masculino,Próstata,II,Não,Não,Diabetes
+39,Masculino,Cólon e reto,III,Sim,Não,Nenhuma
+38,Feminino,Pele não melanoma,I,Não,Não,Ambos
+87,Feminino,Cólon e reto,IV,Não,Sim,Ambos
+87,Masculino,Colo do útero,I,Sim,Sim,Diabetes
+21,Feminino,Pulmão,I,Não,Sim,Nenhuma
+79,Feminino,Pele não melanoma,I,Não,Sim,Ambos
+79,Feminino,Próstata,I,Não,Sim,Hipertensão
+41,Masculino,Pele não melanoma,IV,Não,Não,Diabetes
+72,Feminino,Colo do útero,I,Não,Sim,Hipertensão
+26,Feminino,Mama feminina,II,Não,Sim,Nenhuma
+20,Masculino,Pele não melanoma,I,Não,Não,Nenhuma
+48,Masculino,Próstata,II,Não,Sim,Nenhuma
+57,Feminino,Pele não melanoma,II,Não,Sim,Nenhuma
+53,Feminino,Colo do útero,I,Não,Não,Diabetes
+41,Masculino,Colo do útero,I,Não,Sim,Nenhuma
+23,Masculino,Próstata,III,Não,Não,Nenhuma
+83,Feminino,Pele não melanoma,I,Sim,Sim,Hipertensão
+21,Feminino,Próstata,II,Não,Não,Nenhuma
+23,Feminino,Pele não melanoma,I,Não,Não,Hipertensão
+68,Feminino,Pele não melanoma,III,Sim,Não,Hipertensão
+79,Masculino,Cólon e reto,I,Não,Não,Nenhuma
+74,Feminino,Pele não melanoma,II,Sim,Não,Nenhuma
+83,Feminino,Pele não melanoma,I,Não,Não,Nenhuma
+25,Masculino,Colo do útero,IV,Não,Sim,Diabetes
+43,Feminino,Pele não melanoma,I,Não,Não,Nenhuma
+68,Masculino,Pele não melanoma,III,Sim,Não,Ambos
+62,Feminino,Pulmão,II,Sim,Não,Ambos
+61,Feminino,Pele não melanoma,I,Não,Sim,Nenhuma
+22,Masculino,Cólon e reto,III,Não,Não,Nenhuma
+87,Masculino,Colo do útero,I,Não,Não,Diabetes
+43,Feminino,Pulmão,III,Não,Sim,Nenhuma
+85,Feminino,Próstata,IV,Não,Não,Diabetes
+36,Feminino,Pele não melanoma,III,Não,Sim,Diabetes
+37,Masculino,Pele não melanoma,I,Não,Não,Hipertensão
+29,Feminino,Cólon e reto,III,Não,Sim,Nenhuma
+64,Masculino,Pulmão,II,Não,Não,Hipertensão
+18,Masculino,Mama feminina,III,Não,Não,Nenhuma
+31,Feminino,Pele não melanoma,II,Sim,Não,Hipertensão
+81,Masculino,Pele não melanoma,III,Não,Não,Nenhuma
+55,Feminino,Pele não melanoma,II,Não,Não,Ambos
+54,Feminino,Próstata,II,Sim,Sim,Nenhuma
+28,Feminino,Pele não melanoma,I,Sim,Não,Hipertensão
+20,Feminino,Pulmão,III,Não,Sim,Nenhuma
+50,Feminino,Próstata,II,Não,Não,Nenhuma
+23,Masculino,Pele não melanoma,II,Não,Sim,Nenhuma
+67,Masculino,Próstata,III,Não,Não,Ambos
+27,Feminino,Pele não melanoma,II,Não,Não,Nenhuma
+22,Feminino,Mama feminina,I,Não,Não,Diabetes
+40,Masculino,Próstata,II,Não,Não,Nenhuma
+27,Masculino,Cólon e reto,II,Não,Sim,Nenhuma
+61,Masculino,Cólon e reto,II,Não,Não,Diabetes
+19,Masculino,Pele não melanoma,I,Sim,Não,Ambos
+30,Feminino,Pele não melanoma,I,Não,Sim,Hipertensão
+57,Feminino,Próstata,I,Não,Não,Nenhuma
+19,Masculino,Pele não melanoma,III,Sim,Não,Nenhuma
+82,Feminino,Pele não melanoma,I,Sim,Não,Hipertensão
+80,Masculino,Pele não melanoma,II,Não,Não,Ambos
+34,Feminino,Próstata,IV,Não,Não,Hipertensão
+26,Masculino,Pele não melanoma,I,Não,Não,Hipertensão
+32,Feminino,Próstata,II,Sim,Sim,Hipertensão
+41,Masculino,Colo do útero,III,Sim,Não,Nenhuma
+55,Masculino,Pele não melanoma,IV,Não,Não,Diabetes
+52,Feminino,Pele não melanoma,III,Não,Sim,Nenhuma
+66,Masculino,Pele não melanoma,III,Não,Não,Nenhuma
+86,Feminino,Pulmão,III,Não,Não,Hipertensão
+79,Feminino,Pele não melanoma,II,Não,Não,Nenhuma
+77,Masculino,Pele não melanoma,III,Não,Não,Ambos
+67,Feminino,Pele não melanoma,I,Não,Sim,Ambos
+26,Feminino,Cólon e reto,IV,Não,Não,Diabetes
+51,Feminino,Pele não melanoma,II,Não,Sim,Hipertensão
+52,Feminino,Próstata,II,Não,Não,Hipertensão
+18,Feminino,Pulmão,I,Não,Não,Diabetes
+57,Masculino,Pele não melanoma,III,Não,Não,Hipertensão
+81,Feminino,Cólon e reto,I,Sim,Sim,Diabetes
+39,Feminino,Pele não melanoma,III,Não,Não,Hipertensão
+77,Feminino,Pulmão,III,Não,Não,Diabetes
+81,Feminino,Próstata,I,Não,Sim,Diabetes
+89,Feminino,Pulmão,III,Não,Não,Hipertensão
+28,Masculino,Pele não melanoma,III,Não,Não,Nenhuma
+31,Feminino,Pele não melanoma,II,Sim,Não,Diabetes
+77,Masculino,Pele não melanoma,I,Não,Sim,Nenhuma
+47,Masculino,Pele não melanoma,I,Não,Sim,Diabetes
+52,Masculino,Pele não melanoma,I,Não,Não,Nenhuma
+54,Masculino,Pele não melanoma,I,Não,Não,Diabetes
+22,Feminino,Pele não melanoma,IV,Não,Sim,Nenhuma
+43,Masculino,Pele não melanoma,I,Não,Sim,Nenhuma
+79,Masculino,Cólon e reto,III,Sim,Não,Diabetes
+21,Feminino,Mama feminina,I,Sim,Não,Nenhuma
+59,Feminino,Pele não melanoma,II,Não,Sim,Ambos
+35,Feminino,Pele não melanoma,III,Não,Não,Hipertensão
+57,Masculino,Pele não melanoma,III,Não,Não,Nenhuma
+89,Feminino,Colo do útero,I,Não,Sim,Nenhuma
+56,Feminino,Pele não melanoma,II,Não,Não,Ambos
+31,Masculino,Próstata,II,Não,Não,Hipertensão
+49,Feminino,Colo do útero,I,Não,Não,Nenhuma
+68,Feminino,Cólon e reto,I,Não,Não,Nenhuma
+55,Feminino,Próstata,II,Não,Não,Nenhuma
+40,Feminino,Cólon e reto,II,Não,Não,Nenhuma
+80,Masculino,Colo do útero,III,Sim,Sim,Hipertensão
+32,Feminino,Próstata,I,Sim,Não,Nenhuma
+42,Feminino,Mama feminina,II,Não,Não,Diabetes
+34,Masculino,Próstata,II,Não,Sim,Hipertensão
+83,Feminino,Mama feminina,III,Não,Sim,Ambos
+70,Masculino,Próstata,III,Não,Sim,Nenhuma
+68,Feminino,Pele não melanoma,II,Não,Não,Diabetes
+56,Masculino,Pele não melanoma,III,Não,Sim,Nenhuma
+68,Masculino,Pele não melanoma,I,Não,Sim,Hipertensão
+87,Masculino,Pele não melanoma,II,Sim,Não,Hipertensão
+23,Masculino,Pele não melanoma,I,Não,Não,Nenhuma
+84,Feminino,Pele não melanoma,II,Não,Sim,Hipertensão
+24,Masculino,Mama feminina,III,Sim,Não,Diabetes
+68,Feminino,Pele não melanoma,III,Não,Não,Hipertensão
+89,Masculino,Cólon e reto,I,Sim,Não,Nenhuma
+59,Masculino,Pele não melanoma,II,Não,Não,Diabetes
+81,Masculino,Pele não melanoma,II,Não,Sim,Hipertensão
+32,Feminino,Próstata,I,Não,Não,Ambos
+46,Masculino,Mama feminina,I,Não,Não,Ambos
+50,Feminino,Pele não melanoma,I,Não,Sim,Diabetes
+44,Feminino,Pulmão,I,Não,Sim,Ambos
+53,Feminino,Pulmão,I,Não,Não,Hipertensão
+46,Feminino,Pele não melanoma,I,Não,Sim,Nenhuma
+55,Feminino,Pele não melanoma,I,Não,Não,Hipertensão
+74,Feminino,Colo do útero,III,Não,Sim,Hipertensão
+44,Feminino,Próstata,II,Não,Não,Hipertensão
+72,Feminino,Mama feminina,IV,Não,Não,Hipertensão
+50,Feminino,Cólon e reto,II,Não,Não,Nenhuma
+85,Masculino,Pele não melanoma,III,Não,Não,Hipertensão
+83,Masculino,Pele não melanoma,III,Não,Não,Hipertensão
+27,Masculino,Pele não melanoma,II,Não,Não,Nenhuma
+22,Masculino,Cólon e reto,II,Não,Não,Ambos
+55,Masculino,Mama feminina,III,Não,Não,Hipertensão
+30,Feminino,Próstata,I,Não,Não,Hipertensão
+48,Feminino,Pele não melanoma,I,Não,Não,Hipertensão
+64,Feminino,Pele não melanoma,II,Não,Não,Diabetes
+69,Feminino,Mama feminina,II,Não,Não,Diabetes
+73,Feminino,Próstata,I,Não,Sim,Nenhuma
+32,Feminino,Mama feminina,IV,Não,Não,Nenhuma
+46,Feminino,Pele não melanoma,II,Não,Não,Hipertensão
+25,Masculino,Pulmão,II,Sim,Não,Hipertensão
+22,Masculino,Pele não melanoma,IV,Sim,Não,Diabetes
+46,Masculino,Estômago,II,Sim,Não,Hipertensão
+64,Masculino,Pele não melanoma,IV,Não,Não,Diabetes
+85,Feminino,Próstata,II,Sim,Sim,Nenhuma
+62,Feminino,Pele não melanoma,I,Sim,Sim,Nenhuma
+19,Feminino,Pulmão,III,Não,Não,Nenhuma
+44,Masculino,Mama feminina,II,Não,Não,Nenhuma
+53,Feminino,Pele não melanoma,III,Não,Sim,Ambos
+53,Feminino,Pele não melanoma,IV,Não,Sim,Ambos
+43,Feminino,Pele não melanoma,III,Sim,Sim,Hipertensão
+60,Masculino,Pele não melanoma,II,Não,Não,Ambos
+44,Feminino,Estômago,III,Não,Não,Nenhuma
+86,Masculino,Pele não melanoma,II,Não,Não,Diabetes
+37,Masculino,Cólon e reto,II,Não,Não,Nenhuma
+28,Masculino,Próstata,III,Não,Não,Hipertensão
+55,Masculino,Próstata,I,Não,Não,Nenhuma
+23,Feminino,Pele não melanoma,III,Não,Não,Nenhuma
+89,Masculino,Pele não melanoma,III,Sim,Sim,Nenhuma
+40,Masculino,Cólon e reto,III,Sim,Não,Nenhuma
+64,Feminino,Colo do útero,II,Sim,Não,Ambos
+63,Feminino,Pele não melanoma,III,Não,Não,Nenhuma
+29,Masculino,Pele não melanoma,II,Não,Sim,Nenhuma
+30,Feminino,Mama feminina,III,Sim,Sim,Nenhuma
+79,Masculino,Colo do útero,I,Não,Sim,Nenhuma
+77,Masculino,Pele não melanoma,I,Não,Não,Nenhuma
+60,Masculino,Pele não melanoma,I,Sim,Não,Nenhuma
+85,Masculino,Pulmão,II,Não,Sim,Ambos
+22,Feminino,Pele não melanoma,II,Sim,Não,Nenhuma
+54,Masculino,Pele não melanoma,III,Não,Não,Ambos
+89,Feminino,Mama feminina,II,Não,Sim,Diabetes
+48,Feminino,Pulmão,II,Sim,Não,Hipertensão
+26,Feminino,Pele não melanoma,I,Sim,Sim,Hipertensão
+68,Feminino,Mama feminina,II,Não,Não,Diabetes
+46,Masculino,Pele não melanoma,II,Sim,Não,Diabetes
+57,Feminino,Mama feminina,I,Sim,Não,Ambos
+58,Masculino,Próstata,I,Não,Sim,Diabetes
+28,Feminino,Mama feminina,I,Não,Não,Hipertensão
+40,Feminino,Pele não melanoma,I,Não,Não,Nenhuma
+18,Masculino,Mama feminina,II,Não,Não,Nenhuma
+63,Masculino,Mama feminina,I,Não,Sim,Nenhuma
+38,Masculino,Mama feminina,III,Sim,Sim,Nenhuma
+53,Feminino,Cólon e reto,III,Sim,Sim,Nenhuma
+71,Feminino,Pele não melanoma,II,Não,Sim,Hipertensão
+74,Masculino,Cólon e reto,IV,Não,Não,Nenhuma
+18,Masculino,Cólon e reto,II,Não,Não,Nenhuma
+80,Masculino,Pele não melanoma,II,Não,Não,Hipertensão
+71,Masculino,Mama feminina,IV,Não,Sim,Diabetes
+72,Feminino,Pele não melanoma,I,Não,Não,Nenhuma
+57,Masculino,Pele não melanoma,IV,Não,Sim,Diabetes
+32,Masculino,Pele não melanoma,I,Não,Não,Nenhuma
+38,Masculino,Pele não melanoma,II,Não,Não,Hipertensão
+64,Masculino,Pele não melanoma,I,Sim,Não,Nenhuma
+70,Feminino,Cólon e reto,III,Não,Não,Ambos
+26,Masculino,Pele não melanoma,II,Não,Sim,Diabetes
+69,Feminino,Cólon e reto,III,Não,Não,Hipertensão
+74,Masculino,Mama feminina,I,Não,Não,Nenhuma
+43,Masculino,Pulmão,I,Não,Não,Nenhuma
+58,Feminino,Mama feminina,I,Sim,Não,Nenhuma
+52,Masculino,Pele não melanoma,I,Não,Não,Ambos
+80,Feminino,Próstata,IV,Não,Sim,Nenhuma
+42,Feminino,Pele não melanoma,I,Não,Não,Hipertensão
+55,Masculino,Pele não melanoma,III,Não,Sim,Hipertensão
+19,Feminino,Estômago,III,Não,Não,Hipertensão
+24,Feminino,Pele não melanoma,I,Não,Não,Nenhuma
+51,Feminino,Pele não melanoma,II,Não,Sim,Hipertensão
+34,Feminino,Próstata,I,Não,Não,Diabetes
+60,Feminino,Pulmão,I,Não,Não,Nenhuma
+76,Feminino,Próstata,I,Não,Não,Nenhuma
+68,Feminino,Pele não melanoma,II,Sim,Não,Hipertensão
+71,Feminino,Próstata,II,Não,Não,Diabetes
+41,Masculino,Pele não melanoma,II,Sim,Não,Hipertensão
+42,Masculino,Próstata,II,Não,Não,Hipertensão
+88,Feminino,Estômago,I,Não,Não,Nenhuma
+69,Masculino,Próstata,II,Não,Não,Hipertensão
+87,Feminino,Pulmão,III,Não,Não,Nenhuma
+50,Feminino,Pele não melanoma,I,Sim,Não,Nenhuma
+66,Masculino,Próstata,I,Sim,Sim,Hipertensão
+46,Feminino,Cólon e reto,III,Não,Sim,Nenhuma
+80,Feminino,Pele não melanoma,I,Não,Sim,Hipertensão
+39,Feminino,Pulmão,II,Não,Não,Hipertensão
+43,Feminino,Pele não melanoma,I,Sim,Não,Hipertensão
+45,Masculino,Próstata,I,Sim,Não,Diabetes
+66,Feminino,Cólon e reto,I,Sim,Não,Diabetes
+88,Feminino,Próstata,I,Sim,Sim,Hipertensão
+66,Feminino,Pele não melanoma,II,Não,Não,Nenhuma
+37,Masculino,Mama feminina,II,Não,Não,Nenhuma
+80,Feminino,Mama feminina,III,Não,Não,Nenhuma
+78,Masculino,Pulmão,III,Não,Não,Diabetes
+66,Masculino,Pele não melanoma,II,Sim,Não,Nenhuma
+88,Feminino,Pele não melanoma,III,Não,Não,Nenhuma
+18,Feminino,Próstata,I,Sim,Não,Nenhuma
+30,Masculino,Pele não melanoma,II,Não,Não,Nenhuma
+68,Feminino,Próstata,III,Não,Não,Nenhuma
+73,Masculino,Próstata,I,Sim,Sim,Hipertensão
+79,Masculino,Pulmão,II,Sim,Não,Nenhuma
+49,Feminino,Mama feminina,I,Não,Não,Hipertensão
+47,Feminino,Mama feminina,II,Não,Não,Nenhuma
+46,Masculino,Pele não melanoma,III,Não,Sim,Hipertensão
+66,Masculino,Pele não melanoma,III,Sim,Não,Diabetes
+62,Masculino,Pele não melanoma,III,Sim,Não,Diabetes
+47,Masculino,Pele não melanoma,III,Não,Sim,Nenhuma
+33,Feminino,Próstata,II,Sim,Não,Hipertensão
+57,Feminino,Próstata,II,Não,Sim,Hipertensão
+36,Feminino,Mama feminina,I,Sim,Sim,Nenhuma
+35,Feminino,Cólon e reto,II,Não,Sim,Nenhuma
+18,Feminino,Colo do útero,II,Sim,Sim,Hipertensão
+64,Masculino,Cólon e reto,IV,Não,Não,Hipertensão
+83,Feminino,Próstata,II,Não,Sim,Nenhuma
+55,Feminino,Mama feminina,II,Não,Sim,Nenhuma
+68,Feminino,Pele não melanoma,II,Não,Sim,Ambos
+80,Feminino,Pele não melanoma,II,Não,Sim,Nenhuma
+21,Feminino,Pele não melanoma,III,Não,Sim,Hipertensão
+18,Masculino,Pulmão,I,Não,Não,Nenhuma
+25,Masculino,Cólon e reto,II,Não,Sim,Nenhuma
+46,Masculino,Pele não melanoma,III,Sim,Não,Ambos
+72,Feminino,Mama feminina,II,Sim,Não,Diabetes
+20,Masculino,Cólon e reto,I,Não,Sim,Nenhuma
+49,Masculino,Pele não melanoma,II,Sim,Não,Nenhuma
+27,Feminino,Pele não melanoma,III,Não,Sim,Hipertensão
+51,Feminino,Cólon e reto,I,Não,Sim,Nenhuma
+72,Feminino,Pele não melanoma,III,Não,Sim,Nenhuma
+49,Masculino,Pele não melanoma,III,Não,Não,Ambos
+67,Masculino,Mama feminina,II,Não,Não,Nenhuma

@@ -1,0 +1,11 @@
+Índice,Idade,Sexo,Tipo de Câncer,Estágio Diagnóstico,Histórico Familiar,Tabagismo,Comorbidades
+521,73,Feminino,Próstata,I,Sim,Não,Ambos
+737,70,Masculino,Próstata,II,Não,Não,Diabetes
+740,87,Feminino,Cólon e reto,IV,Não,Sim,Ambos
+660,84,Masculino,Pele não melanoma,IV,Sim,Não,Nenhuma
+411,82,Feminino,Pulmão,II,Não,Não,Diabetes
+678,63,Feminino,Pele não melanoma,II,Não,Não,Nenhuma
+626,83,Feminino,Cólon e reto,I,Não,Não,Hipertensão
+513,89,Feminino,Pele não melanoma,I,Sim,Não,Diabetes
+859,55,Feminino,Pele não melanoma,I,Não,Não,Hipertensão
+136,79,Masculino,Mama feminina,I,Não,Sim,Hipertensão
